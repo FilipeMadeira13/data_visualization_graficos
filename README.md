@@ -139,7 +139,6 @@ Este projeto faz parte da minha preparação para atuar como **Analista de Dados
 ## Autor
 
 **Filipe Madeira**
-GitHub: [https://github.com/FilipeMadeira13](https://github.com/FilipeMadeira13)
-LinkedIn: [https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
+- GitHub: [https://github.com/FilipeMadeira13](https://github.com/FilipeMadeira13)
+- LinkedIn: [https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
 
-Quer elevar ele para “projeto que chama recrutador para entrevista”?
