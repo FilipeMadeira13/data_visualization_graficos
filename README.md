@@ -1,6 +1,6 @@
-# 📊 Data Visualization com Python
+# Data Visualization com Python
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido no **Google Colab** com o objetivo de aplicar conceitos fundamentais de **Análise Exploratória de Dados (EDA)** e boas práticas de **Data Visualization** utilizando Python.
 
@@ -15,7 +15,7 @@ Mais do que apenas gerar gráficos, o projeto demonstra:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python 3
 * Pandas
@@ -26,17 +26,17 @@ Mais do que apenas gerar gráficos, o projeto demonstra:
 
 ---
 
-## 📈 Visualizações Desenvolvidas
+## Visualizações Desenvolvidas
 
 O notebook inclui a construção e análise de:
 
-* 📊 Histogramas (colunas e linhas)
-* 📦 Boxplots
-* 🎻 Violin Plots
-* 🔵 Gráficos de Dispersão
-* 📏 Inserção de média, mediana e moda nos gráficos
-* 🎨 Customizações de layout, tema e anotações
-* 🚫 Tratamento e rejeição de outliers por percentil
+* Histogramas (colunas e linhas)
+* Boxplots
+* Violin Plots
+* Gráficos de Dispersão
+* Inserção de média, mediana e moda nos gráficos
+* Customizações de layout, tema e anotações
+* Tratamento e rejeição de outliers por percentil
 
 Cada gráfico foi construído com foco em:
 
@@ -47,7 +47,7 @@ Cada gráfico foi construído com foco em:
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 Durante o desenvolvimento foram trabalhados:
 
@@ -61,7 +61,7 @@ Durante o desenvolvimento foram trabalhados:
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 🔹 Opção 1 – Abrir no Google Colab (Recomendado)
 
@@ -93,19 +93,19 @@ jupyter notebook
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
-📦 data_visualization_graficos
- ┣ 📜 Projeto Inicial - Dataviz - Gráficos.ipynb
- ┗ 📜 README.md
+data_visualization_graficos
+ ┣ Projeto Inicial - Dataviz - Gráficos.ipynb
+ ┗ README.md
 ```
 
 > Projeto desenvolvido integralmente em notebook, com foco em exploração e visualização.
 
 ---
 
-## 🎯 Diferenciais do Projeto
+## Diferenciais do Projeto
 
 * Código organizado e comentado
 * Aplicação prática de conceitos estatísticos
@@ -115,7 +115,7 @@ jupyter notebook
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 * Aplicar a mesma estrutura em dataset real (Kaggle ou dados públicos)
 * Modularizar funções em scripts `.py`
@@ -125,7 +125,7 @@ jupyter notebook
 
 ---
 
-## 🎓 Objetivo Profissional
+## Objetivo Profissional
 
 Este projeto faz parte da minha preparação para atuar como **Analista de Dados**, com foco em:
 
@@ -136,19 +136,10 @@ Este projeto faz parte da minha preparação para atuar como **Analista de Dados
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Filipe Madeira**
-🔗 GitHub: [https://github.com/FilipeMadeira13](https://github.com/FilipeMadeira13)
-🔗 LinkedIn: [https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
-
----
-
-Se você quiser, posso agora:
-
-* 🔥 Transformar esse projeto em versão “nível entrevista técnica”
-* 📊 Criar uma versão com seção de *Insights Obtidos*
-* 🧠 Adaptar para parecer projeto aplicado a problema de negócio
-* 🏆 Montar um padrão definitivo de README para todos seus projetos de Dados
+GitHub: [https://github.com/FilipeMadeira13](https://github.com/FilipeMadeira13)
+LinkedIn: [https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
 
 Quer elevar ele para “projeto que chama recrutador para entrevista”?
